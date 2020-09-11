@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="860f6695-1d7e-4681-9402-9ac01370bb58" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hNKAoOWMfGK12CGi8Ga4VNRN3V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW1" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="860f6695-1d7e-4681-9402-9ac01370bb58" name="Default Changelist" comment="" />
+      <created>1599845969073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599845969073</updated>
+      <workItem from="1599845970112" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-5" y="38" key="#Deployment" timestamp="1599846731808">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-5" y="38" key="#Deployment/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1599846731808" />
+    <state x="318" y="42" key="#Options" timestamp="1599846413053">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="318" y="42" key="#Options/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1599846413053" />
+    <state x="217" y="6" key="#SSH_Configurations" timestamp="1599846060015">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="217" y="6" key="#SSH_Configurations/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1599846060015" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1599846683784">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1599846683784" />
+    <state x="526" y="91" key="ftp.server.browser" timestamp="1599846599289">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="526" y="91" key="ftp.server.browser/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1599846599289" />
+  </component>
+</project>
